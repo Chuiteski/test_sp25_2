@@ -6,5 +6,5 @@ using namespace std;
 
 int main()
 {
-    
+    cout << "Push to Github\n";
 }
