@@ -7,5 +7,5 @@ using namespace std;
 int main()
 {
     cout << "Push to Github\n";
-    court<<"Pull from Github\n";
+    cout<<"Pull from Github\n";
 }
